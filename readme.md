@@ -10,7 +10,7 @@ of Deep Learning Specialization
 python main.py -c "<path to content image>" -s "<path to style image>
 
 
-## **Example:**
+### **Example:**
 $python main.py -c "./images/louvre_small.jpg" -s "./images/monet.jpg"
 
 
